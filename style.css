@@ -6,7 +6,7 @@
 body
 {
 	background-color: #000000;
-		background-image: url(Images/16.png);
+		background-image: url(16.png);
 		background-repeat: no-repeat;
 		background-position: 330px 0px ;
 		background-size: 50%;
@@ -51,7 +51,7 @@ body
 .hero-btn{
 	display: inline-block;
 	text-decoration: none;
-	color: #000080;
+	color: #fff;
 	border: 1px solid #fff;
 	padding: 12px 34px;
 	font-size: 13px;
